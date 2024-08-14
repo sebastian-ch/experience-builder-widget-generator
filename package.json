@@ -1,6 +1,6 @@
 {
   "name": "esri-widget-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "bin": {
     "create-widget": "./index.js"
   },
@@ -9,8 +9,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type":"module",
-  "keywords": ["esri", "experience builder", "widget"],
+  "type": "module",
+  "keywords": [
+    "esri",
+    "experience builder",
+    "widget"
+  ],
   "author": "Sebastian Hancock",
   "license": "ISC",
   "dependencies": {
