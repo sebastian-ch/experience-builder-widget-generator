@@ -10,8 +10,7 @@ npm install -g esri-widget-generator
 ```
 
 
-go to your experience builder folder ``ArcGISExperienceBuilder\client\your-extensions\widgets``
-(it will install the folder anywhere though)
+It will generate the widget in whatever folder you're in -- I'd recommend going to your experience builder folder ``ArcGISExperienceBuilder\client\your-extensions\widgets``
 
 
 run ``create-widget``
