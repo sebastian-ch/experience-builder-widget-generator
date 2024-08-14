@@ -1,0 +1,23 @@
+{
+  "name": "esri-widget-generator",
+  "version": "1.0.0",
+  "bin": {
+    "create-widget": "./index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "keywords": ["esri", "experience builder", "widget"],
+  "author": "Sebastian Hancock",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^x.x.x",
+    "octokit": "^x.x.x",
+    "axios": "^x.x.x",
+    "commander": "^x.x.x",
+    "fs-extra": "^x.x.x"
+  }
+}
