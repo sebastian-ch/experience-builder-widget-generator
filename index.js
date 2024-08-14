@@ -5,7 +5,6 @@ import { input, select } from '@inquirer/prompts';
 import fs from 'fs-extra';
 import path from 'path';
 import { Octokit } from 'octokit';
-import axios from 'axios';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -64,7 +63,7 @@ async function copyWidget(widget, destination) {
 program
     .name('create-widget')
     .description('Generate a custom widget template for ArcGIS Experience Builder')
-    .version('1.0.0');
+    .version('1.1.1');
 
 program.action(async () => {
     const widgets = await getWidgets();

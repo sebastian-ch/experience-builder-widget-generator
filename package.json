@@ -22,7 +22,6 @@
   "dependencies": {
     "@inquirer/prompts": "^x.x.x",
     "octokit": "^x.x.x",
-    "axios": "^x.x.x",
     "commander": "^x.x.x",
     "fs-extra": "^x.x.x"
   }
