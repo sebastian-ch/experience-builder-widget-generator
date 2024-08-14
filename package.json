@@ -1,6 +1,7 @@
 {
   "name": "esri-widget-generator",
-  "version": "1.1.0",
+  "homepage": "https://github.com/sebastian-ch/experience-builder-widget-generator",
+  "version": "1.1.1",
   "bin": {
     "create-widget": "./index.js"
   },
@@ -15,6 +16,7 @@
     "experience builder",
     "widget"
   ],
+  "url": "https://github.com/sebastian-ch/experience-builder-widget-generator.git",
   "author": "Sebastian Hancock",
   "license": "ISC",
   "dependencies": {
