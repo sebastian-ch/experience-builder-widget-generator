@@ -17,7 +17,7 @@ go to your experience builder folder ``ArcGISExperienceBuilder\client\your-exten
 run ``create-widget``
 give your widget a name and select the template
 
-![]("example.gif")
+![]("https://github.com/sebastian-ch/experience-builder-widget-generator/blob/main/example.gif")
 
 
 
